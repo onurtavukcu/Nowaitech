@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "0TQGs43pro1m8NGYVBCge4EuxFQ5t93eXr8nChTArlI=",
+  "Source": "NowaitechDomain",
+  "BasePath": "_content/NowaitechDomain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\adm\\Desktop\\Nowaitech\\NowaiTech\\NowaitechShared\\NowaitechShared.csproj",
+      "Version": 2,
+      "Source": "NowaitechShared",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@NowaiTech_HostAddress = http://localhost:5052
+
+GET {{NowaiTech_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

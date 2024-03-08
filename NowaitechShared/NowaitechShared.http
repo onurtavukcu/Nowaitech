@@ -1,0 +1,6 @@
+@NowaitechShared_HostAddress = http://localhost:5268
+
+GET {{NowaitechShared_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
