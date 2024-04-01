@@ -15,17 +15,17 @@ namespace NowaitechDomain
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            builder.Services.AddDbContext<EntityDbContext>
-               (
-                   options => options
-                   .UseNpgsql
-                   (
-                       builder.Configuration.GetConnectionString("NowaiTechDatabase"),
-                       b => b.MigrationsAssembly(Assembly.GetExecutingAssembly().FullName)
-                   )
-                   .UseLazyLoadingProxies()
-                   .LogTo(Console.WriteLine)
-               );
+            //builder.Services.AddDbContext<EntityDbContext>
+            //   (
+            //       options => options
+            //       .UseNpgsql
+            //       (
+            //           builder.Configuration.GetConnectionString("NowaiTechDatabase"),
+            //           b => b.MigrationsAssembly(Assembly.GetExecutingAssembly().FullName)
+            //       )
+            //       .UseLazyLoadingProxies()
+            //       .LogTo(Console.WriteLine)
+            //   );
 
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 

@@ -7,7 +7,7 @@ namespace NowaitechDomain.Commands.ExcelToFileModelCommands
     public class ExcelToFileModelCommand<T> : IExcelToFileModalCommand<T> where T : new()
     {
         public async Task<List<T>> GetDataFromExcelAsync(int tableNumber, CancellationToken cancellationToken)
-            {
+        {
             var thisName = typeof(T).Name;
 
             var fileLocator = new FileResourcePath();

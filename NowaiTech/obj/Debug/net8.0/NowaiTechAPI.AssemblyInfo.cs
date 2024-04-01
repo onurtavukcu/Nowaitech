@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NowaiTechAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d194c148ac3eaa419bdf47ad99a6696b556e7cb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NowaiTechAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NowaiTechAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

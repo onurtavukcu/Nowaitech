@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
+using NowaitechDomain.Commands;
 using NowaitechDomain.ExcelDbContext;
 using NowaitechDomain.Operation;
 using NowaitechDomain.Repository.CustomQuery;
@@ -34,7 +35,10 @@ namespace NowaiTechAPI.Controllers
             var instance = new GetUserCommand(_dbContext, _configuration);
 
             var token = instance.GetAllUser(user);
-            
+
+            string str = "test";
+            string result = str.GetFirstCar();
+                        
             return await Task.FromResult<IActionResult>(Ok(token.Result));
         }
 
@@ -61,9 +65,9 @@ namespace NowaiTechAPI.Controllers
             user.PasswordHash = hashResult;
             user.UserTypeId = 1;
                         
-            _dbContext.UserInputs.AddAsync(user);
+            await _dbContext.UserInputs.AddAsync(user, cancellationToken);
 
-            var result = _dbContext.SaveChanges();
+            var result = await _dbContext.SaveChangesAsync(cancellationToken);
 
             if (result != 1)
             {

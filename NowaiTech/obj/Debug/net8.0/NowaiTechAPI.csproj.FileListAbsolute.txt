@@ -245,9 +245,10 @@ C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\staticwebass
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NowaiTechAPI.props
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\scopedcss\bundle\NowaiTechAPI.styles.css
-C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\NowaiTechAPI.csproj.CopyComplete
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\NowaiTechAPI.dll
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\refint\NowaiTechAPI.dll
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\NowaiTechAPI.pdb
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\NowaiTechAPI.genruntimeconfig.cache
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\ref\NowaiTechAPI.dll
+C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\NowaiTechAPI.sourcelink.json
+C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaiTech\obj\Debug\net8.0\NowaiTec.203E16A3.Up2Date

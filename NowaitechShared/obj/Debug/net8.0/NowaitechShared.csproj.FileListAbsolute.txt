@@ -102,9 +102,10 @@ C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\static
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NowaitechShared.props
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\scopedcss\bundle\NowaitechShared.styles.css
-C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\NowaitechShared.csproj.CopyComplete
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\NowaitechShared.dll
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\refint\NowaitechShared.dll
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\NowaitechShared.pdb
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\NowaitechShared.genruntimeconfig.cache
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\ref\NowaitechShared.dll
+C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\NowaitechShared.sourcelink.json
+C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechShared\obj\Debug\net8.0\Nowaitec.B73EBB23.Up2Date

@@ -233,7 +233,6 @@ C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\static
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NowaitechDomain.props
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\scopedcss\bundle\NowaitechDomain.styles.css
-C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\NowaitechDomain.csproj.CopyComplete
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\NowaitechDomain.dll
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\refint\NowaitechDomain.dll
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\NowaitechDomain.pdb
@@ -242,3 +241,5 @@ C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\bin\Debug\net8.0\Nowait
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\bin\Debug\net8.0\NowaitechDomain.pdb
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\NowaitechDomain.genruntimeconfig.cache
 C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\ref\NowaitechDomain.dll
+C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\NowaitechDomain.sourcelink.json
+C:\Users\adm\Desktop\Nowaitech\NowaiTech\NowaitechDomain\obj\Debug\net8.0\Nowaitec.A73D39C6.Up2Date
